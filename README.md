@@ -3,6 +3,12 @@
  - written for didactic purposes<br>
  - covered in 95 YouTube video series
 
+# New
+- update to C++ (std::C++17)
+- separate source and header files
+- embedded nnue eval (incbin)
+- optimzed code base via Clang/Resharper C++ guidelines
+
 # Subscribers' projects based on BBC
 KhepriChess by Kurt1288: https://github.com/kurt1288/KhepriChess (TypeScript)<br>
 KittyEngine by UnboxTheCat: https://github.com/evanhyd/KittyEngineV4 (C++)
