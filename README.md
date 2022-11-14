@@ -4,10 +4,10 @@
  - covered in 95 YouTube video series
 
 # New
-- update to C++ (std::C++17)
-- separate source and header files
+- updated to C++ (std::C++17)
+- separated source and header files
 - embedded nnue eval (incbin)
-- optimzed code base via Clang/Resharper C++ guidelines
+- optimized code base via Clang/Resharper C++ guidelines
 - Visual Studio 2022 project file included
 
 # Subscribers' projects based on BBC
