@@ -8,6 +8,7 @@
 - separate source and header files
 - embedded nnue eval (incbin)
 - optimzed code base via Clang/Resharper C++ guidelines
+- Visual Studio 2022 project file included
 
 # Subscribers' projects based on BBC
 KhepriChess by Kurt1288: https://github.com/kurt1288/KhepriChess (TypeScript)<br>
