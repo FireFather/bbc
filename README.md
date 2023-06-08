@@ -1,9 +1,4 @@
-# BBC (Bit Board Chess) + Stockfish NNUE!
- - UCI chess engine by Code Monkey King<br>
- - written for didactic purposes<br>
- - covered in 95 YouTube video series
-
-# New
+# bbc+nnue
 - updated to C++ (std::C++17)
 - separated source and header files
 - embedded nnue eval (incbin)
@@ -11,6 +6,11 @@
 - Visual Studio 2022 project files and
 - avx2, bmi2, popcnt binaries included
 
+# BBC (Bit Board Chess) + Stockfish NNUE!
+ - UCI chess engine by Code Monkey King<br>
+ - written for didactic purposes<br>
+ - covered in 95 YouTube video series
+ - 
 # Subscribers' projects based on BBC
 KhepriChess by Kurt1288: https://github.com/kurt1288/KhepriChess (TypeScript)<br>
 KittyEngine by UnboxTheCat: https://github.com/evanhyd/KittyEngineV4 (C++)
