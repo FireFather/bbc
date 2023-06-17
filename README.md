@@ -1,5 +1,5 @@
 # bbc-nnue
-**new**
+**new:**
 - updated to C++ (std::C++17)
 - separate source and header files
 - embedded nnue eval (incbin)
