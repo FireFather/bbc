@@ -1,7 +1,7 @@
 # bbc-nnue
-- new:
+**new:**
 - updated to C++ (std::C++17)
-- separated source and header files
+- separate source and header files
 - embedded nnue eval (incbin)
 - optimized code base via Clang/Resharper C++ guidelines
 - Visual Studio 2022 project files and
